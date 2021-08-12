@@ -1,0 +1,846 @@
+Annual Work Plan
+Our Annual Work Plan (Plan) outlines our perspective of the top management challenges facing the Social Security Administration (SSA) and serves as a tool for communicating our priorities to SSA, the Congress, the Office of Management and Budget (OMB), and other interested parties.  The activities described address the fundamental goals related to SSA’s mission to administer Social Security programs and operations effectively and efficiently.  Our work is prioritized to focus our resources on those areas that are most vulnerable to fraud, waste and abuse.  To ensure we provide a coordinated effort, we work closely with the Offices of Investigations, Chief Counsel to the Inspector General, and Resource Management. 
+Our Plan is categorized to mirror the top management challenges that cut across the Government, as outlined in the President’s Management Agenda (PMA) and rated by OMB’s Scorecard.
+The PMA was designed to coordinate agency efforts to “address the most apparent deficiencies and focus resources where the opportunity to improve performance is the greatest.”  The PMA’s goal is to establish a more responsible and responsive Government that is citizen-centered, results-oriented, and market-based.  OMB provides each Federal agency a scorecard rating its performance.  The scorecard is designed around a simple grading system:  green for success, yellow for mixed results, and red for unsatisfactory.  Following is the status of SSA’s efforts, as reported by OMB’s June 2006 Scorecard.
+Subject to budgetary constraints, we plan to complete 105 reviews, begin 97 reviews, and oversee the review of 13 performance indicators in FY 2007 in the following issue areas.  
+Social Security Number Protection 
+Management of the Disability Process 
+Improper Payments and Recovery of Overpayments
+Internal Control Environment and Performance Measures
+Systems Security and Critical Infrastructure Protection 
+Service Delivery and Electronic Government
+To assist us in this analysis, we cross-walked the PMA, Commissioner Priorities, Social Security Advisory Board, and Government Accountability Office (GAO) high-risk areas to those identified by our prior and ongoing work.  The following table demonstrates that our perspective is congruent with other key decisionmakers.  
+In preparing this Plan, we solicited suggestions from the Agency.  We received a number of suggestions for inclusion in our Plan, and we have incorporated as many of them as possible.  
+We recognize this Plan is dynamic, so we encourage continuous feedback and additional suggestions.  This flexibility enables us to meet emerging and critical issues evolving throughout the upcoming year.
+For more information on this Plan, please contact the Office of Audit at (410) 965-9700.  
+SOCIAL SECURITY NUMBER PROTECTION
+Efforts to Protect the Social Security Number
+The Social Security number (SSN) has become a key to social, legal, and financial assimilation in this country.  Because the SSN is so heavily relied on as an identifier, it is also valuable as an illegal commodity.  Criminals improperly obtain SSNs by (1)false documentation; (2) stealing another person’s SSN; (3)an SSN; (4) using the SSN of a deceased individual; or (5) contriving an SSN by selecting any nine digits. 
+To improve controls in its enumeration process, SSA verifies all immigration documents before assigning SSNs to noncitizens.  SSA also requires mandatory interviews for all applicants age 12 or older (lowered from age 18) who request an SSN.  In addition, SSA has established Enumeration Centers in Brooklyn and Queens, New York, and Las Vegas, Nevada, that focus exclusively on assigning SSNs and issuing SSN cards—and it has plans to open several more, as resources permit.  Finally, in FY 2005, SSA implemented new systems enhancements by requiring field office use of software called the SS-5 Assistant.  This program has simplified the interpretation of, and compliance with, SSA’s complex enumeration policies and, unlike the traditional process, will not process an SSN request unless SSA staff obtains and enters all of the applicant’s required information.  
+In addition to these improvements, SSA has implemented several enhancements that will better ensure SSN protection.  These endeavors were required by the Intelligence Reform and Terrorism Prevention Act of 2004 and include
+restricting the issuance of multiple replacement SSN cards to 3 per year and  10 in a lifetime;
+requiring independent verification of any birth record submitted by a U.S.-born individual to establish eligibility for an SSN, other than for purposes of enumeration at birth; 
+coordinating with the Department of Homeland Security (DHS) and other agencies to further improve the security of Social Security cards and numbers; and
+strengthening the standards and requirements for identity and citizenship documents presented with SSN applications to ensure the correct individual obtains the correct SSN.
+We applaud the Agency for these efforts and believe it has made significant strides in providing greater protection for the SSN.  Nevertheless, incidences of SSN misuse continue to occur.  To further protect SSN integrity, we believe SSA should 
+encourage public and private entities to limit use of the SSN as an individual identifier,
+continue to address identified weaknesses in its information security environment to better safeguard SSNs, and
+continue to coordinate with partner agencies to pursue any data sharing agreements that would increase data integrity.
+The Social Security Number and Reported Earnings
+Properly posting earnings ensures eligible individuals receive the full retirement, survivor and/or disability benefits due them.  If earnings information is reported incorrectly or not reported at all, SSA cannot ensure all individuals entitled to benefits are receiving the correct payment amounts.  In addition, SSA’s programs depend on earnings information to determine whether an individual is eligible for benefits and calculate the amount of benefit payments.
+SSA must use its limited resources to resolve incorrect earnings data reported by employers.  The Earnings Suspense File (ESF) is the Agency’s record of annual wage reports for which wage earners’ names and SSNs fail to match SSA’s records.  As of October 2005, the ESF had accumulated about $520 billion in wages andmillion wage items for Tax Years (TY) 1937 through 2003.  For TY 2003, SSA posted approximately 8.8wage items, representing about $58 billion in wages.  
+While SSA has limited control over the factors that cause erroneous wage reports submitted each year, there are still areas where the Agency can improve its processes.  SSA can improve wage reporting by educating employers on reporting criteria, identifying and resolving employer reporting problems, and encouraging greater use of the Agency’s SSN verification programs.  SSA also needs to coordinate with other Federal agencies with separate, yet related, mandates.  For example, the Agency works with the Internal Revenue Service (IRS) to achieve more accurate wage reporting.  We have also encouraged greater collaboration with DHS on some of these employer issues.
+SSA has taken steps to reduce the size and growth of the ESF.  For example, in June, SSA expanded its voluntary Social Security Number Verification Service (SSNVS) to all interested employers nationwide.  SSNVS allows employers to verify the names and SSNs of employees before reporting their wages to SSA.  SSA also participates in the Basic Pilot program with DHS, which verifies the names and SSNs of employees as well as their citizenship and authorization to work in the U.S.  In December 2004, the Basic Pilot program was made available to employers nationwide.
+The Agency is modifying the information it shares with employers.  Under the Intelligence Reform and Terrorism Prevention Act of 2004, SSA is required to add both death and fraud indicators to the SSN verification systems for employers, State agencies issuing drivers’ licenses and identity cards, and other verification routines, as determined appropriate by the Commissioner of Social Security.
+The Social Security Number and Unauthorized Work
+SSA assigns nonwork SSNs to noncitizens who are (1) legally in the United States without authorization to work and are entitled to a State or local general assistance benefit that, by law, requires an SSN or (2) entitled to federally financed benefits that, by law, require an SSN.  In either case, the noncitizen must meet all requirements for the benefit other than having an SSN.  SSA tracks earnings reported under a nonwork SSN and reports this information to DHS.  Nonetheless, our audits have noted several issues related to nonwork SSNs, including the (1) type of evidence provided to obtain a nonwork SSN, (2) reliability of nonwork SSN information in SSA’s records, (3) significant volume of wages reported under nonwork SSNs, and (4) payment of benefits to noncitizens who qualified for their benefits, in part, as a result of unauthorized work in the United States.  
+In March 2004, Congress placed new restrictions on the receipt of SSA benefits by noncitizens who are not authorized to work in the United States.  Under the Social Security Protection Act of 2004, if a noncitizen worker was first assigned an SSN on or after January, 2004, Title II benefits are precluded based on his/her earnings unless the noncitizen was ever assigned an SSN for work purposes or admitted to the United States as a visitor for business or as an alien crewman.  SSA’s implementation of this new law will require increased coordination with DHS to ensure SSA has the correct work status information in its records.  
+In FY 2007, we plan to complete 16 reviews and begin 9 reviews in this area.
+
+We plan to complete the following reviews in FY 2007
+Assigning Social Security Numbers to Fiancé Visa Nonimmigrants
+Congressional Response Report:  Accuracy of the Social Security Administration’s Numident File
+Congressional Response Report:  Employer Feedback on the Social Security Administration’s Verification Programs
+Effectiveness of Educational Correspondence to Employers
+F-1 Students’ Use of Social Security Numbers
+Original Social Security Numbers Assigned to Individuals Age 12 or Older
+Social Security Numbers Assigned to Citizens of Compact of Free Association Countries
+Social Security Numbers Assigned to Exchange Visitors
+State and Local Governments’ Collection, Use, and Disclosure of Social Security Numbers
+The Social Security Administration’s Compliance with SS-5 Assistant Policies and Procedures
+The Social Security Administration’s Employee Verification Programs
+The Social Security Administration’s Las Vegas Social Security Card Center
+The Social Security Administration’s Single Select Edit Routine
+The Social Security Statement in Correcting Earnings Records
+The Validity of Earnings Posted to the Social Security Administration’s Master Earnings File for Children Ages 7 Through 13
+Unauthorized Redisclosure of Social Security Administration Information to State Agencies in Region VII
+We plan to begin the following reviews in FY 2007
+Earnings Records with Multiple Employers                     
+Effectiveness of Blanket Adjustments of Earnings
+Follow-up:  The Enumeration at Entry Process
+Follow-up:  The Social Security Administration’s Internal Use of Employee Social Security Numbers
+Individuals Applying for Replacement Social Security Cards Using Different Places of Birth
+Medicare’s Use of Social Security Numbers on Cards Issued to Participants
+Non-program Social Security Number Verification Requests from Third Parties
+Social Security Administration/Internal Revenue Service Wage Reconciliation Process 
+The Office of Quality Performance’s New Earnings Suspense File Edits and the Impact on Earnings Integrity
+Assigning Social Security Numbers to Fiancé Visa Nonimmigrants
+Objective
+To (1) evaluate SSA’s compliance in assigning SSNs to fiancé visa nonimmigrants and (2) determine whether vulnerabilities exist in this process that may allow noncitizen fiance’s whose immigration status has expired to remain in the United States and improperly use their SSNs.
+Background
+U.S. citizens who are engaged to a foreign national may petition the State Department for a fiancé classification.  The marriage must take place within 90 days of the fiancé entering the United States.  If the marriage does not take place within 90 days, the State Department requires that the fiancé leave the United States.  
+SSA policies and procedures state that fiancé visa holders are eligible to receive an SSN upon producing evidence of age, identity and a valid, unexpired U.S. Citizenship and Immigration Services Form I-94, Arrival-Departure Record, which contains the appropriate certification from DHS that entry to the United States has been permitted with a fiancé visa classification.  SSA assigns about 14,000 original SSNs annually to individuals who have fiancé visas.  SSA field office personnel have expressed concern that the Agency assigns SSNs to fiancé visa holders whose legal duration of stay in the United States may only be 90 days.  An SSN card makes it easier for individuals who do not marry to remain in the United States.
+Congressional Response Report:  Accuracy of the Social Security Administration’s Numident File
+Objective
+To assess the accuracy of SSA’s Numident file information relied on in employment verification services.
+Background
+SSA provides employers and third-party submitters several verification programs and services that allow them to match their employees’ names and SSNs with SSA’s records.  The Basic Pilot, one of these verification programs, is a joint effort between SSA and DHS to assist employers in verifying newly hired employees’ authorization to work in the United States.  
+On April 7, 2006, the Chairman of the House Committee on Ways and Means, Subcommittee on Social Security, requested that we assist the Subcommittee in obtaining information on the reliability of the data SSA and DHS use to verify employee information submitted by employers.  The Chairman asked that we assess the accuracy of the SSN Numident fields on which the Basic Pilot relies.  Additionally, the Chairman requested that we provide information for each of the following populations of numberholders:   (1) native-born U.S. citizens, 
+foreign-born U.S. citizens, and 
+non-U.S. citizens.
+Congressional Response Report:  Employer Feedback on the Social Security Administration’s Verification Programs
+Objective
+To assess employers’ satisfaction with SSA’s verification programs.
+Background
+In April 2006, the Chairman of the House Committee on Ways and Means, Subcommittee on Social Security, requested information on the experiences of employers who have used one of SSA’s three verification programs, including:  
+SSNVS—an on-line program available to employers to ensure their employees’ names and SSNs are valid before submitting their Form W-2 to SSA.  It was rolled out nationwide in June 2005. 
+Basic Pilot—a joint effort between SSA and DHS to assist employers with verifying newly hired employees’ authorization to work in the United States.  
+Effectiveness of Educational Correspondence to Employers
+Objective
+To assess the effectiveness of Educational Correspondence (EDCOR) in communicating wage reporting problems to employers and reducing the size of the ESF.
+Background
+SSA sends an employer an EDCOR letter when more than 10 Wage and Tax Statements (Forms W-2) in the employer’s  wage report do not match SSA’s records, and these mismatches exceed 0.5 percent of the total number of W-2s in the report.  The EDCOR letter notes the importance of accurate names and SSNs and encourages employers to provide SSA corrected information so the wages can be posted to the appropriate earners’ accounts.  SSA mailed approximately 128,000 EDCOR notices to employers in TY 2005.  
+F-1 Students’ Use of Social Security Numbers
+Objective
+To assess (1) F-1 students’ use of SSNs to determine whether they work on- or off-campus or are unemployed and (2) schools’ compliance with governing policies.
+Background
+Approximately 600,000 foreign students were enrolled in educational institutions in the United States during the 2004-2005 academic year.  The F-1 classification, one of three nonimmigrant classifications for foreign students, is unique in that it is assigned to students who are eligible to work on-campus without obtaining specific approval from DHS.  Instead, DHS requires that the school ensure the F-1 student is attending classes full-time and in good academic standing.  If so, the student is eligible to work on-campus up to 20 hours per week.
+In October 2004, SSA began requiring that   F-1 students who do not have an Employment Authorization Document or authorization for curricular practical training provide evidence of on-campus work authorization and verification they had secured employment or a promise of employment before SSA assigned an SSN.
+Original Social Security Numbers Assigned to Individuals Age 12 or Older
+Objective
+To determine whether SSA complied with established policies when assigning original SSNs to U.S. citizens age 12 or older.
+Background
+When a U.S. citizen age 12 or older requests an original SSN or a new (different) SSN, an in-person interview must be conducted to ensure the validity of the request.  The interview is conducted to assist the individual in recalling possible instances when an SSN may have been needed (such as when the applicant attended school or applied for admission; registered to vote; held a job; or had a savings account) and to prevent the assignment of an SSN to an individual who is assuming a false identity.
+Social Security Numbers Assigned to Citizens of Compact of Free Association Countries
+Objective
+To (1) determine whether SSA is following procedures when issuing SSNs to individuals from Compact of Free Association countries and (2) identify any vulnerabilities in the process.
+Background
+Individuals who are citizens of Compact of Free Association countries (the Federated States of Micronesia, Republic of the Marshall Islands, and Republic of Palau) may enter, reside in, and work in the United States without regard to immigration laws. 
+SSA instructions state that a citizen of a Compact of Free Association country in the United States is treated as an alien lawfully admitted for permanent residence.  Their SSN card application should be processed  without a legend.  However, if the Compact of Free Association applicant resides outside the United States, he/she must provide a valid nonwork reason for an SSN.  If the nonwork need is valid, the application is to be processed for a nonwork card. 
+The evidence required for issuing an SSN is DHS’ I-94.  The I-94 bears an entry date but no expiration date.  Some citizens of Compact of Free Association countries entered the United States before DHS began issuing I-94s for permanent nonimmigrants.  
+Social Security Numbers Assigned to Exchange Visitors
+Objective
+To (1) assess SSA’s compliance in assigning SSNs to exchange students and (2) determine whether vulnerabilities exist in this process that may allow exchange visitors whose immigration status has expired to remain in the United States and improperly continue using their SSNs.
+Background
+Exchange visitors who enter the United States to take part in an Exchange Visitor program designated by the Department of State are given special immigration status.  These exchange visitors usually study; teach; receive training; or, as in the case of the Summer Student Travel/Work program, obtain general employment while being sponsored by an approved organization.  Some categories of exchange visitors are automatically authorized to work while others require permission from their sponsors.  
+SSA policy provides that certain categories of exchange visitors are presumed to have employment authorization, including camp counselors and individuals performing summer work and travel.  For the 6-week period ended September 30, 2005, SSA assigned over 31,000 SSNs to individuals who had Exchange Student visas.  
+State and Local Governments’ Collection, Use, and Disclosure of Social Security Numbers
+Objective
+To assess State, city, and county governments’ (including K-12 schools) collection, use, and disclosure of SSNs and any potential risks associated with these practices.
+Background
+SSNs are widely used by Federal, State, and local agencies to provide services and benefits to the public.  These agencies use SSNs to manage their records and facilitate data sharing with others.  They share SSNs and other personal information to verify eligibility for benefits, collect debts owed the government, and conduct and/or support research and evaluation.  In addition to using SSNs for program purposes, many of these agencies reported using employees’ SSNs for such activities as payroll, wage reporting, and providing employee benefits.  These agencies occasionally display SSNs on documents that may be viewed by others who do not have a need for this personal information. 
+The Social Security Administration’s Compliance with SS-5 Assistant Policies and Procedures
+Objective
+To determine whether SSA field office staff complied with enumeration policies and procedures when processing SSN applications through the SS-5 Assistant program.
+Background
+SSA requires that applicants for an original or replacement SSN card complete a Form SS-5, Application for a Social Security Card.  The SS-5 Assistant, a Microsoft Access-based application, guides field office personnel in processing SSN applications by providing structured interview questions and requiring certain data to complete the application process.  Overall, the SS-5 Assistant is intended to increase control over the application process, improve the quality of data used to assign an SSN, and enable management to better control this workload.  
+The Social Security Administration’s Employee Verification Programs
+Objective
+To assess SSA’s employee verification programs to identify commonalities between the services as well as any variations.
+Background
+SSA offers three employee verification programs that allow employers and third-party submitters to match existing and newly hired employees’ names and SSNs with SSA’s records.
+EVS for Registered Users—an electronic or paper process available to employers to ensure their employees’ names and SSNs are valid before submitting their Forms W-2 to SSA. 
+SSNVS—an on-line  program that allows employers to verify up to  10 names and SSNs at once and receive an immediate result.  Employers can upload batch files of up to 250,000 names and SSNs and receive the results the next business day. 
+Basic Pilot—a joint effort between SSA and DHS to assist employers with verifying the name, SSN, and work authorization of newly hired employees.
+The Social Security Administration’s Las Vegas Social Security Card Center
+Objective
+To evaluate SSA’s compliance with policies and procedures when processing applications for SSNs at the Las Vegas Social Security Card Center.
+Background
+In April 2005, SSA opened the Las Vegas Social Security Card Center as part of its efforts to improve public service and strengthen the integrity of the enumeration process.  The Center will process all requests for initial and replacement SSN cards for residents of the Las Vegas Valley and greater southern Nevada area.  It was the second Social Security office in the nation devoted entirely to processing SSN applications.  
+The Social Security Administration’s Single Select Edit Routine
+Objective
+To assess the effectiveness of the Single Select edit routine in reinstating earnings from the ESF and posting these earnings to the correct earners’ record.
+Background
+The Single Select Edit process assumes the individual’s reported name is correct, but some mistake has been made with the SSN.  Single Select creates up to 89 possible variations of the SSN and matches them against the Numident.  Once a match is found, the earnings are posted under that SSN.  If no match is found, the record is marked as invalid and remains in the ESF.  Single Select is one of the first edit processes performed, and the unresolved suspended items are sent through additional edits and/or shared with employees and employers for resolution.  
+The Social Security Statement in Correcting Earnings Records
+Objective
+To assess the effectiveness of the annual Social Security Statements in correcting individuals’ earnings records and reducing the size of the ESF.
+Background
+Section 1143 of the Social Security Act requires that SSA send an annual statement of potential Social Security benefits to workers who are age 25 or older and not receiving Social Security benefits.  The statements are designed to provide workers estimates of their retirement, disability and survivors benefits.  Further, the statements provide workers an easy way to determine whether their earnings are accurately posted on their Social Security records.  This is an important feature because Social Security benefits are based on an individual’s career wage record.  In FY 2005, SSA mailed approximately 144 million statements. 
+The Validity of Earnings Posted to the Social Security Administration’s Master Earnings File for Children Ages 7 through 13
+Objective
+To review controls over the validity of earnings posted to SSA’s Master Earnings File and determine whether they are sufficient to detect and deter identity theft.
+Background
+SSA identifies and investigates earnings postings for children age 6 and younger.  SSA does not have a process to validate earnings posted to children ages 7 through 13.  The Department of Labor provides guidance that allows children of any age to work in the entertainment industry or for their parents, deliver newspapers, and perform babysitting or minor chores in a private home.  In addition, the guidance allows for limited work performed by 12 and 13 year olds.  For example, a child age 12 or 13 may be employed in the agricultural industry outside school hours with written parental consent.  Use of a minor’s SSN for work that is not usually performed by minors may indicate SSN misuse is occurring.
+Unauthorized Redisclosure of Social Security Administration Information to State Agencies in Region VII
+Objective
+To determine the extent to which information from SSA is being redisclosed by State agencies or their agents in Region VII without SSA’s authorization.
+Background
+This audit was requested by the Kansas City Regional Office because it has experienced that some States are redisclosing information from SSA to other State and Federal agencies as well as contractors without proper authorization.  There is a concern that this unauthorized redisclosure may be routinely occurring. 
+One of the objectives of the SSA matching operations program is to achieve more effective and efficient SSA program operations by sharing information from SSA’s automated systems of records with States to eliminate incorrect benefit payments and decrease related program costs.  Certain computer matches having a material impact on eligibility, benefits or privacy rights of the individual by Federal agencies must be conducted under the Privacy Act of 1974.
+MANAGEMENT OF THE DISABILITY PROCESS
+SSA administers the Disability Insurance (DI) and Supplemental Security Income (SSI) programs, which provide benefits based on disability.  Most disability claims are initially processed through a network of Social Security field offices and State Disability Determination Services (DDS).  SSA representatives in the field offices are responsible for obtaining applications for disability benefits, disability report forms and authorization for disclosure of information forms as well as verifying non-medical eligibility requirements, which may include age, employment, marital status, or Social Security coverage information.  After initial processing, the field office sends the case to a DDS to develop medical evidence and evaluate the disability.  
+Once SSA establishes an individual is eligible for disability benefits under either the DI or SSI (or both) program, the Agency turns its efforts toward ensuring the individual continues receiving benefits only as long as SSA’s eligibility criteria are met.  For example, a continuing disability review (CDR) may show the individual no longer meets SSA’s disability criteria or has demonstrated medical improvement.
+If an individual disagrees with the Agency’s decision on his/her claim or CDR, the claimant can appeal to SSA’s Office of Disability Adjudication and Review (ODAR).  ODAR’s field structure consists of 10 regional and 140offices.  ODAR’s administrative law judges (ALJ) hold hearings and issue decisions.  Within ODAR, we have focused our attention on issues such as the backlog of cases, case management procedures, safeguards for sensitive information in case files, and physical security at ODAR hearing sites.  
+GAO added modernizing Federal disability programs—including SSA’s—to its 2003 high-risk list due, in part, to outmoded concepts of disability, lengthy processing times, and decisional inconsistencies.  To address improvements needed in SSA’s disability programs, on March 28, 2006, the Commissioner of Social Security presented the final rule establishing a new disability determination process that was published in the Federal Register.  The final rule provides for the following. 
+A quick disability determination process for those who are obviously disabled. Favorable decisions will be made in such cases within 20 days after the claim is received by the State disability determination agency. 
+A new Medical-Vocational Expert System to enhance the expertise needed to make accurate and timely decisions.  The Medical-Vocational Expert System will be composed of an Expert Unit and a national network of medical, psychological and vocational experts who meet qualification standards established by the Commissioner. 
+A new position—the Federal Reviewing Official—that will review State agency determinations upon the claimant’s request.  This will eliminate the reconsideration step of the current appeals process.  The Federal Reviewing Official will be administered by ODAR.
+Retention of the right to request a de novo hearing and decision from an ALJ if the claimant disagrees with the Federal Reviewing Official’s decision. 
+Closing the record after the ALJ issues a decision, with provision for certain good cause exceptions to this rule.
+A new body—the Decision Review Board—to review and correct decisional errors and ensure consistent adjudication at all levels of the disability determination process.  The current Appeals Council will be phased out gradually.  
+In addition to the Commissioner’s improvements, the Agency is transitioning to the electronic disability folder.  The electronic disability folder will allow for disability claims information to be stored and transmitted electronically among field offices, DDSs, OQP, and ODAR. 
+SSA is working to ensure individuals with disabilities who want to work have the opportunity to do so.  The Comprehensive Work Opportunity Initiative represents the Agency’s overarching strategy to assist individuals with disabilities in attaining economic self-sufficiency and breaking through potential barriers to employment.  The Ticket to Work program, which provides beneficiaries with disabilities expanded options for access to employment, vocational rehabilitation, and other support services to help them work, is one element of SSA’s Comprehensive Work Opportunity Initiative.
+Disability Fraud
+Fraud is an inherent risk in SSA’s disability programs.  Some unscrupulous people view SSA’s disability benefits as money waiting to be taken.  A key risk factor in the disability program is individuals who feign or exaggerate symptoms to become eligible for disability benefits.  Another key risk factor is the monitoring of medical improvements for disabled individuals to ensure those individuals who are no longer disabled are removed from the disability rolls. 
+We are working with SSA to address the integrity of the disability programs through the Cooperative Disability Investigation program.  The Cooperative Disability Investigation program’s mission is to obtain evidence that can resolve questions of fraud in SSA’s disability programs.  The Cooperative Disability Investigation program is managed in a cooperative effort between SSA’s Office of Operations, the OIG, and the Office of Disability Programs.  There are 19 Cooperative Disability Investigation units operating in 17 States.  In FY 2005, the Cooperative Disability Investigation units saved SSA almost $124 million by identifying fraud and abuse related to initial and continuing claims in the disability program.  
+In FY 2007, we plan to complete 10 reviews and begin 12 reviews in this area.
+We plan to complete the following reviews in FY 2007
+Administrative Law Judges’ Caseload Performance
+Childhood Continuing Disability Reviews and Age 18 Redeterminations
+Controls over Contracts for Verbatim Hearing Recordings
+Disability Determinations Made for Beneficiaries Convicted of Disability Insurance Fraud
+Disabled Individuals Hiding Self-Employment Income
+Impact of Statutory Benefit Continuation on Disability Insurance Benefit Payments Made During the Appeals Process
+Management’s Use of Workload Status Reports at Hearing Offices
+Representatives Barred from Practicing Before the Social Security Administration 
+The Social Security Administration’s Disability Service Improvement Process
+Ticket to Work Cost Reimbursements to Employment Networks and State Vocational Rehabilitation Agencies
+We plan to begin the following reviews in FY 2007
+Aged Cases at the Hearing Level
+Analysis of Disability Decisions Reversed by the Office of Disability Adjudication and Review
+Cap on Attorney Assessments Under Public Law 108-203
+Disabilities Classified by the Social Security Administration as Difficult to Prove
+Disability Insurance and Supplemental Security Income Payments not Stopped Timely Following a Disability Cessation
+Electronic Disability Processing in the Hearing Offices at the Office of Disability Adjudication and Review
+Medical Consultants Contract Review
+Office of Disability Adjudication and Review Contract Oversight
+Overpayment Waivers Appealed to the Office of Disability Adjudication and Review
+Predictive Modeling Used for Quick Disability Determinations
+Proper Classification of Terminally Ill Beneficiaries by the Social Security Administration
+Transfers of Case Workload Among Hearing Offices
+Administrative Law Judges’ Caseload Performance
+Objective
+To evaluate SSA’s oversight of ALJ caseload performance.
+Background
+Federal legislation prevents SSA from requiring that ALJs process a certain number of cases.  However, SSA may set reasonable production goals for ALJs as long as the goals do not infringe on ALJs’ independent decision-making processes.  
+Federal legislation also prevents SSA from establishing a performance appraisal system for ALJs.  However, disciplinary actions can be taken against ALJs if the Merit Systems Protection Board finds good cause.  In two cases we reviewed, the Merit Systems Protection Board found that an ALJ may be disciplined for substandard production, but SSA did not provide sufficient evidence to compare ALJs’ caseloads.  Therefore, the Board denied the request for action against the ALJs based on poor production.
+In a prior review, we determined the number of cases processed by ALJs at one hearing office ranged from as few as 276 to as many as 1,892 in a 1-year period.  This variance may have occurred because the ALJs were given the discretion to determine the number of cases they would process instead of SSA establishing the number and holding ALJs accountable for reasonable production goals.
+Childhood Continuing Disability Reviews and Age 18 Redeterminations
+Objective
+To determine whether SSA is  (1) conducting CDRs for SSI recipients under age 18 timely and ensuring these recipients are receiving appropriate medical treatment and (2) conducting eligibility determinations in a timely manner using adult criteria for SSI recipients attaining age 18. 
+Background
+The Social Security Act requires that SSA  
+perform CDRs at least every 3 years on all children under age 18 whose impairments are likely to improve;
+obtain evidence from the child’s representative payee at the time of a CDR that the child is, and has been receiving treatment to the extent considered medically necessary and available for, the disabling impairment; and
+redetermine, within 1 year of an individual’s 18th birthday, the eligibility of any SSI recipient who was on the childhood disability rolls the month before he/she attained age 18.
+
+
+Controls over Contracts for Verbatim Hearing Recordings
+Objective
+To determine whether the contract to acquire hearing reporters for ODAR, effective for FY 2006, is (1) effective in obtaining hearing reports; (2) clear in the specifications related to contractor duties; and (3) consistently implemented in each region.
+Background
+Hearing reporters are responsible for delivering complete summary notes of the hearing; a complete set of exhibits; and a complete and audible tape or digital recording.  The hearing reporter may only perform those services for SSA that are stated in the contract.
+The contract stipulates that the prices quoted by SSA will be as low, or lower, than those charged to the contractor’s most favored customer.  Also, the contract stipulates for payment per final product, rather than payment per hour.  Payment per final product does not consider that hearings may take as short a time as  30 minutes or as long as 60 minutes; preparation of recording equipment; and preparation of compact discs to record hearings.
+Disability Determinations Made for Beneficiaries Convicted of Disability Insurance Fraud
+Objective
+To examine disability fraud cases, at each level of review within the disability determination process, to identify individuals who were approved for disability benefits and later convicted of disability fraud.  
+Background
+SSA representatives in the field offices are responsible for obtaining applications for disability and verifying non-medical eligibility requirements.  After initial processing, the field office sends the case to a DDS to develop medical evidence, evaluate the disability, and determine whether the applicant is disabled.  Decisions that an applicant is not disabled can be appealed to SSA’s Office of Disability Adjudication and Review, which can, and often does, rule in the applicant’s favor with a finding that the individual is disabled. 
+Over the past few years, we and GAO have conducted reviews of SSA’s disability process and DI fraud.  Some examples of fraud include individuals who (1) feign or exaggerate symptoms to become eligible for disability benefits or (2) collaborate with a middleman or intermediary to get on the rolls; or (3) hide their income under another individual’s SSN.  Information from our Office of Investigations indicates there were about 1,400 disability fraud convictions during FYs 2003 through 2005.
+
+Disabled Individuals Hiding Self-Employment Income
+Objective
+To identify individuals receiving DI benefits who may have participated in self-employment activities and concealed the income by transferring it to a spouse.
+Background
+An individual is considered disabled, for the purposes of the DI program, if she/he cannot engage in any substantial gainful activity.  Substantial gainful activity is used to describe a level of work activity and earnings.  Substantial work activity involves doing significant physical or mental work, or a combination of both that is productive.  If an individual is engaging in substantial gainful activity, she/he is generally not eligible for disability benefits.  
+Because of the substantial gainful activity stipulations, individual’s awarded disability benefits under the DI program may be inclined to deliberately conceal work by transferring the income to a spouse.  Individuals report self-employment income to the IRS on their annual tax return.  The IRS, in turn, reports the income to SSA.  SSA maintains earnings records for all individuals with an SSN to assist in determining an individual’s eligibility for disability and other benefits.  
+Impact of Statutory Benefit Continuation on Disability Insurance Benefit Payments Made During the Appeals Process
+Objective
+To evaluate the financial impact on the Trust Fund when beneficiaries receive DI payments while appealing a medical cessation decision.
+Background
+A determination of benefit cessation is made when a CDR reveals the beneficiary no longer meets the requirements for disability benefits.  Benefit cessation decisions are made by disability examiners in the Office of Central Operations and the DDSs, as well as by disability specialists in the program service centers.  Public Law 97-455, as extended by Public Law 101-508, provides the disabled beneficiary the option for DI benefit continuation through the reconsideration and/or ALJ hearing process in medical cessation determinations.
+Benefit payments made during the appeals process are considered overpayments if the cessation decision is upheld.  SSA waives the overpayment when the claimant is found to be without fault in causing the overpayment, and recovery or adjustment would defeat the purpose of the disability program.
+
+
+
+
+Management’s Use of Workload Status Reports at Hearing Offices
+Objective
+To assess the effectiveness of the benchmarks used in the Case Processing and Management System No Status Change report to identify stagnant claims and bottlenecks in the hearing process.
+Background
+The Case Processing and Management System was implemented in August 2004 to (1) control and process hearing claims and (2) produce management information.  Hearing office employees assign a status code to each claim as it moves through the adjudication and review process.  Each status code identifies the claim’s location and processing status.  
+For each of the 12 status codes tracked by the Case Processing and Management System No Status Change report, ODAR has set a benchmark time (measured in days) to process a claim.  If a claim stays in status beyond the benchmark time, the claim appears in the Case Processing and Management System No Status Change report.  The claim will stay in this status until it is processed and the status code changes.  
+Representatives Barred from Practicing Before the Social Security Administration 
+Objective
+To review controls over SSA’s implementation of section 205 of the Social Security Protection Act of 2004 with respect to the recognition, disqualification, and reinstatement of claimant representatives. 
+Background
+A claimant may designate an attorney or a non-attorney to represent him/her at a hearing or appeal before SSA.  The Agency must ensure these representatives are of good character.  The Social Security Protection Act of 2004 provides that SSA may refuse to recognize a representative, or disqualify a representative already recognized, if the attorney or non-attorney has been disbarred or suspended from any court, bar, Federal program or Agency he or she was previously admitted to practice or participate in.  Moreover, under the Social Security Protection Act of 2004 a representative who has been disqualified or suspended from appearing before SSA shall be barred from appearing before SSA until full restitution is made to the claimant.  
+
+
+
+The Social Security Administration’s Disability Service Improvement Process
+Objective
+To assess SSA’s implementation of the Disability Service Improvement process in the Boston Region.
+Background
+SSA established the Disability Service Improvement process in March 2006 to be implemented in the Boston Region in August 2006.  SSA plans to implement the Disability Service Improvement process in the Denver Region 1 year later, followed by one region every 6 months—with full implementation expected within 5 years. 
+Ticket to Work Cost Reimbursements to Employment Networks and State Vocational Rehabilitation Agencies
+Objective
+To conduct a performance review of SSA and its contractor, Maximus, Inc., to ensure cost reimbursements to Employment Networks and State Vocational Rehabilitation Agencies are in accordance with the Ticket to Work and Work Incentives Improvement Act.
+Background
+The Ticket to Work and Work Incentives Improvement Act was enacted to enable eligible Social Security and SSI recipients with disabilities to receive a ticket they can use to obtain employment, vocational rehabilitation, or other support services from an approved provider of their choice, either from organizations called an Employment Network or from State vocational rehabilitation agencies.  The Employment Networks and vocational rehabilitation agencies help disabled beneficiaries return to work.  As of May 23, 2006, SSA had enrolled 1,359 employment networks and  79 Vocational Rehabilitation Agencies, issued over 10 million tickets, and assigned approximately 134,000 tickets. 
+The program manger is responsible for administering most aspects of the ticket to work program, including recruiting and managing employment networks, and managing the ticket process.  SSA selected Maximus, Inc., to serve as its program manager on September 30, 2003.
+IMPROPER PAYMENTS AND RECOVERY OF OVERPAYMENTS
+Improper payments are defined as any payment that should not have been made or was made in an incorrect amount.  Examples of improper payments include inadvertent errors, payments for unsupported or inadequately supported claims, or payments to ineligible beneficiaries.  Furthermore, the risk of improper payments increases in programs with a significant volume of transactions, complex criteria for computing payments, and an overemphasis on expediting payments.  
+SSA and the OIG have discussed such issues as detected versus undetected improper payments and avoidable versus unavoidable overpayments that are outside the Agency's control and a cost of doing business.  OMB issued specific guidance to SSA to only include avoidable overpayments in its improper payment estimate because those payments can be reduced through changes in administrative actions.  Unavoidable overpayments that result from legal or policy requirements are not to be included in SSA’s improper payment estimate.
+The President and Congress have expressed interest in measuring the universe of improper payments in the Government.  In August, OMB published the PMA, which included a Government-wide initiative for improving financial performance, including reducing improper payments.  The Improper Payments Information Act of 2002 was enacted in November 2002, and OMB issued guidance in May 2003 on implementing this law.  Under the Improper Payments Information Act of 2002, SSA must estimate its annual amount of improper payments and report this information in its annual Performance and Accountability Report.  OMB will then work with SSA to establish goals for reducing improper payments in its programs.  
+SSA issues billions of dollars in benefit payments under the Old-Age, Survivors and Disability Insurance (OASDI) and SSI programs—and some improper payments are unavoidable.  Since SSA is responsible for issuing timely benefit payments for complex entitlement programs to millions of people, even the slightest error in the overall process can result in millions of dollars in over- or underpayments.  In FY 2005, SSA reported that it detected over $4.2in overpayments.  SSA also noted in its Performance and Accountability Report for FY 2005 that it recovered over $2in overpayments.  
+In January 2005, OMB issued a report Improving the Accuracy and Integrity of Federal Payments that noted that seven Federal programs—including SSA’s OASDI and SSI programs—accounted for approximately 95 percent of the improper payments in FY 2004.  However, this report also noted that SSA had reduced the amount of SSI improper payments by over $100since levels reported in FY.
+SSA has been working to improve its ability to prevent over- and underpayments by obtaining beneficiary information from independent sources sooner and using technology more effectively.  For example, the Agency is continuing its efforts to prevent payments after a beneficiary dies through Electronic Death Registration information.  Also, the Agency’s CDR process is in place to identify and prevent beneficiaries who are no longer disabled from receiving payments.  Additionally, in FY, SSA implemented eWork—a new automated system to control and process work-related CDRs—which should strengthen SSA’s ability to identify and prevent improper payments to disabled beneficiaries.  
+In April 2006, we issued a report on overpayments in SSA’s disability programs where we estimated that SSA had not detected about $3.2 billion in overpayments for the period Octoberthrough November 2005 as a result of conditions that existed as of Octoberor earlier.  We also estimated that SSA paid about $2.1 billion in benefits annually to potentially ineligible beneficiaries.  We will continue to work with SSA to identify and address improper payments in its programs.  SSA has taken action to prevent and recover improper payments based on several OIG reviews.  
+Working with us on an audit of Individuals Receiving Benefits Under Multiple Social Security Numbers at the Same Address, SSA identified about $12.2in overpayments; and as of April 2006, about 10 percent of the funds had been recovered.  
+In another review—School Attendance by Student Beneficiaries over Age—we estimated that SSA disbursed about $70 million in incorrect payments to 32,839.  SSA agreed with our recommendation to ensure the overpayments are established and collection activities initiated for the incorrect payments identified in this audit. 
+We have helped the Agency reduce improper payments to prisoners and improper SSI payments to fugitive felons.  However, our work has shown that improper payments—such as those related to workers’ compensation (WC)—continue to occur.  
+In FY 2007, we plan to complete 24 reviews and begin 33 reviews in this area.
+
+We plan to complete the following reviews in FY 2007
+Accountability over Duplicate Payments, Equipment and Records in the Hurricane Recovery Area
+Accuracy of Overpayment Adjustments When Critical Payments are Issued
+Accuracy of the Social Security Administration’s Second Clean-up of Title II Disability Insurance Cases with a Workers’ Compensation Offset
+Controls over Changes Made to Title II Direct Deposit Routing Numbers 
+Controls over Miscellaneous Payments Made Using the Social Security Administration’s Single Payment System
+Controls over Survivors Benefits When Indications Exist a Wage Earner is Alive
+Corporate Officers Receiving Disability Insurance or Supplemental Security Income Payments
+Cross-program Recovery of Benefit Overpayments
+Federal Employees’ Compensation Act—Nationwide Review of Federal Employees with Wages on the Master Earnings File
+Government Pension Offset Exemption for Texas School Districts’ Employees
+Improper Retirement and Survivor Payments Resulting from the Annual Earnings Test
+Multiple Direct Deposits for Title XVI Recipients into the Same Bank Account
+Supplemental Security Income Recipients Eligible as Disabled Children Under the Old-Age, Survivors and Disability Insurance Program
+Supplemental Security Income Recipients Whose Medicare Benefits Were Terminated Because of Death
+Supplemental Security Income Underpayments on Prior Records Not Released or Offset for Outstanding Overpayments
+The Social Security Administration’s Accountability of Federal Emergency Management Agency Funds Provided for Hurricane Relief Efforts
+The Social Security Administration’s Controls and Procedures over Supplemental Security Income Death Alerts
+The Social Security Administration’s Monitoring of Dedicated Accounts for Supplemental Security Income Recipients
+The Social Security Administration’s Title II Disability Insurance Triennial Redetermination Process
+Title II Beneficiaries Living in Canada and England (2 Reviews)
+Title XVI Payments Sent to Social Security Administration Field Offices
+Unprocessed Manual Recalculations for Title II Overpayments
+W-2 Earnings for Individuals Related to Disabled Workers
+We plan to begin the following reviews in FY 2007
+AB Accruals Processed Through Manual Adjustment, Credit and Award Processes
+Accuracy of Manually Posted Title II Overpayments
+Benefit Payments Managed by Representative Payees of Children in Foster Care
+Concurrently Entitled Beneficiaries with Inconsistent Payment Status Codes
+Controls of Override Actions in the Single Payment System
+Controls over Changes Made to Title Direct Deposit Routing Numbers
+Death Underpayments Payable on Behalf of Title II Beneficiaries
+Debt Collection Tool - Interest Charging
+Follow-up:  Controls over Recording Supplemental Security Income Overpayments
+Follow-up:  Impact on the Social Security Administration’s Programs When Auxiliary Beneficiaries Do Not Have their Own Social Security Numbers
+Follow-up:  The Social Security Administration’s Management of Its Federal Employees’ Compensation Act Program
+Fugitive Provisions for Title II Beneficiaries
+Improper Benefit Payments Related to Changes in Supplemental Security Income Eligibility Factors
+Multiple Benefit Payments to the Same Post Office Box or Commercial Mailbox
+Overstated Earnings and the Impact on Title XVI Recipients
+Social Security Administration Payments to Railroad Retirement Board
+Social Security Administration Utility Bills
+Spouses Entitled to Higher Retirement Benefits
+Status of Repayment Agreements
+Supplemental Security Income Payments to Individuals Receiving Tribal Gaming Revenues
+Supplemental Security Income Recipients Not Using Medicaid Benefits
+Supplemental Security Income Recipients with Automated Teller Machine Withdrawals Indicating They Are Outside the United States
+Suspension of Supplemental Security Income Eligibility for Failure to Provide Information
+The Medicare Non-Usage Project 
+The Social Security Administration’s Administrative Sanctions Process
+The Social Security Administration’s Controls over Deleted Overpayments
+The Social Security Administration’s Foreign Enforcement Questionnaire
+The Social Security Administration’s Management Controls for Underpayments Deposited into Dedicated Accounts
+The Social Security Administration’s Match of Disability Insurance Records with Ohio Workers’ Compensation Payment Data
+Title II Administrative Finality Provisions
+Title II and XVI Direct Deposit Payments into the Same Bank Account Owned by Individuals Not Concurrently Entitled
+Title XVI Immediate Payments Resulting in Overpayments
+Workers’ Compensation Rates Recorded on the Master Beneficiary Record as “Not Proven” 
+Accountability over Duplicate Payments, Equipment and Records in the Hurricane Recovery Area
+Objective
+To review the process for identifying and collecting overpayments resulting from duplicate payments issued during storm recovery and determine whether SSA adequately accounted for and safeguarded equipment and records disposed of after the storms.
+Background
+Hurricanes Katrina and Rita struck the coastal regions of Alabama, Louisiana, Mississippi, and Texas in August and September 2005.  About 1 million beneficiaries and recipients receiving approximately $700 million in monthly benefit payments were affected.  In September and October 2005, SSA issued over 84,750 immediate payments, totaling  $45.5 million, in the affected regions.  By comparison, SSA issued 22,894 immediate payments, totaling $13.5 million nationwide in September and October 2004.
+Those beneficiaries and recipients who did not receive their benefit checks were instructed to go to any open SSA office to receive an emergency or immediate payment.  In September and October 2005, 8,100 OASDI beneficiaries who received their benefits via electronic fund transfer also received an immediate payment.  SSA began sending notices on January 30, 2006, advising those beneficiaries they were being charged with an overpayment.
+Numerous SSA facilities were affected, with facilities, records, and equipment damaged or contaminated and having to be destroyed.
+Accuracy of Overpayment Adjustments When Critical Payments are Issued
+Objective
+To determine whether SSA is properly recomputing overpayment balances when a critical payment is made to compensate a beneficiary who belatedly applied for partial withholding.
+Background
+When SSA establishes a Title II overpayment for a beneficiary who is in pay status, the system sets up a diary to withhold the beneficiary’s full monthly payments to recover the overpayment.  However, beneficiaries can request that only a portion of the monthly payment be withheld.  Often, a request for partial withholding is not processed until 1 or more months’ full benefits have been withheld.  In these cases, SSA repays the beneficiary the excess amount withheld and posts the paid amount back to the overpayment balance. 
+
+
+Accuracy of the Social Security Administration’s Second Clean-up of Title II Disability Insurance Cases with a Workers’ Compensation Offset
+Objective
+To assess the accuracy of SSA’s second clean-up of Title II DI cases involving a WC offset.
+Background
+Workers injured on the job may qualify for DI benefits under Title II of the Social Security Act.  In addition to DI benefits, disabled workers may be eligible for benefits under Federal and State WC programs.  However, when an injured worker receives both DI and WC benefits the individual may receive more in disability benefits than what he/she earned while working.  To prevent this, SSA offsets (reduces) DI payments based on the amount of the monthly WC benefits. 
+Recognizing the payment accuracy of the WC offset workload needed to be improved, SSA formed a work group to study the issue.  SSA determined the improvement process should include a “clean-up” of this work load.  The clean-up involved redeveloping and reverifying the offset calculations of beneficiaries who met specific criteria.  To date, SSA has completed two clean-up projects, which included a review of some 111,000 WC offset cases.  The first clean-up reviewed about 61,000 cases, and the second clean-up reviewed about 50,000 cases.  
+Controls over Changes Made to Title II Direct Deposit Routing Numbers
+Objective
+To determine the effectiveness of SSA’s controls over multiple changes to direct deposit routing numbers.
+Background
+This review was predicated by a request for investigative assistance from the New York Police Department, which arrested two individuals after they cashed a stolen check.  During an initial debriefing, one of the subjects stated the other subject was receiving personal identifying information from an SSA teleservice representative.  The New York Police Department contacted OIG for assistance, and the subject was re-interviewed by OIG and Secret Service agents.
+The investigation revealed a scheme in which the SSA teleservice representative, working with 3 co-conspirators, victimized at least 17 beneficiaries who had called SSA’s 800-number for assistance.  The defendants redirected the recipients’ benefits to accounts they controlled.  In several instances, the defendants took over recipients’ bank accounts using confidential information illegally obtained.  Once payments were deposited into one of the controlled accounts, the defendants concealed the fraud by putting the correct bank account information back on the record.
+
+Controls over Miscellaneous Payments Made Using the Social Security Administration’s Single Payment System
+Objective
+To determine whether SSA established adequate controls to ensure miscellaneous payments made through the Single Payment System are valid.
+Background
+SSA uses the Single Payment System to issue payments for attorney fees and OASDI payments that cannot be made through the Title II system (miscellaneous payments).  It was created to ensure the timeliness of payments, stop duplicate and erroneous payments and document management information.  
+The Single Payment System is used to make miscellaneous payments in the following situations.
+When payments due for a prior period and the continuing status of the case is deferred.
+When the computed net amount due equals or exceeds $30,000.
+To pay a death underpayment to a non-beneficiary.
+To issue an excess refund to a non-beneficiary or financial institution.
+Controls over Survivors Benefits When Indications Exist a Wage Earner is Alive
+Objective
+To determine the appropriateness of continued survivors benefits when SSA records contain evidence the wage earner is alive and identify any improper payments.
+Background
+SSA accepts and posts death reports for nonbeneficiaries received from a relative, friend, neighbor, or other reporter.  The reporter must provide the name, date of birth, and SSN before SSA can add the death to the Numident record.  These reports can be made by mail, telephone, or in person.  Although SSA may accept death reports for nonbeneficiaries from third parties, proof of death is required when a claimant files on the record of a deceased person or when a claimant’s eligibility is dependent on another person’s death.  If the death report is posted in error, SSA deletes the death data from the Numident record.
+During a prior audit, we found survivors benefits paid without proof of death.  We also identified cases in which the primary account holder personally applied for a replacement SSN card while a survivors payment was being made based on the individual’s death.  
+
+
+
+Corporate Officers Receiving Disability Insurance or Supplemental Security Income Payments
+Objective
+To determine whether DI beneficiaries or SSI recipients are reporting employment as corporate officers to SSA for determining continued DI and SSI eligibility.
+Background
+To qualify for DI benefits, an individual must meet a test of covered work before becoming disabled.  SSI is a means-tested program designed to provide or supplement the income of aged, blind or disabled individuals with limited resources.  Under these programs, individuals must report to SSA if they take a job or become self-employed.  As of September 30, 2005, there were about 8.2 million DI beneficiaries and 4.6 million SSI recipients.
+In April 2006, the Railroad Retirement Board’s OIG reported on an investigative effort initiated to identify Railroad Retirement Board disability annuitants who might be concealing employment and income under corporations established in the State of Georgia.  An annuitant was determined to be disabled in November 1989; however an investigation revealed the beneficiary incorporated a freight company in 1994.  
+Cross-program Recovery of Benefit Overpayments
+Objective
+To review SSA’s actions pertaining to cross-program recovery of benefit overpayments as authorized by the Social Security Protection Act of 2004.  
+Background
+SSA administers the OASDI, Special Veteran Benefit, and SSI programs under Titles II, VIII and XVI of the Social Security Act.  World War II veterans who are eligible for SSI payments may also be entitled to receive a Special Veteran Benefit.  SSI is a cash assistance program that provides a minimum level of income to financially needy individuals who are aged, blind or disabled.
+Before the Social Security Protection Act of 2004 was passed, SSA had limited authority to collect overpayments using cross-program recovery.  Cross-program recovery is the process of collecting overpayments by withholding (offsetting) the payable benefits individuals are to receive from another benefit program SSA administers.  Section 1147 of the Social Security Act limits SSA’s use of cross-program recovery to collect SSI overpayments.  The SSI overpayment could be collected from OASDI or Special Veteran Benefit but only if the individuals were no longer eligible for SSI payments.
+Federal Employees’ Compensation Act—Nationwide Review of Federal Employees with Wages on the Master Earnings File
+Objective
+To determine whether Federal employees are receiving Federal Employees’ Compensation Act (FECA) payments for periods in which wages were reported on SSA’s Master Earnings File.
+Background
+FECA provides income and medical cost protection to covered Federal civilian employees injured on the job, employees who have incurred a work-related injury or occupational disease and beneficiaries of employees whose death is attributable to a job-related injury or occupational disease.  It provides payment as compensation for lost wages, monetary awards for bodily impairment or disfigurement, medical care, vocational rehabilitation, and survivor’s compensation.  
+FECA is administered by the Office of Workers’ Compensation Programs, Department of Labor.  This Office is responsible for making eligibility determinations and for the initial reconsideration if a claim is denied.  Benefits are paid from the Employees’ Compensation Fund, which is principally funded through chargebacks to the Federal agency that employs the injured worker.  Therefore, the FECA program affects the budgets of all Federal agencies.
+Government Pension Offset Exemption for Texas School Districts’ Employees
+Objective
+To determine whether beneficiaries who were previously employed by certain Texas school districts are exempt from Government Pension Offset.
+Background
+Social Security benefits for a spouse or surviving spouse are generally reduced for individuals who receive a monthly pension from a State or local government agency.  However, Government Pension Offset does not apply if an individual’s last day of employment was in a position that was covered by both Social Security and a State or local government pension plan.  The exemption applies only to those individuals whose last day of employment was before July 1, 2004.  The Social Security Protection Act of 2004 subsequently amended the Government Pension Offset provisions to require that State and local government employees be covered by Social Security throughout their last 60 months (5 years) of employment to be exempt from Government Pension Offset.  This review will determine whether approximately 22,000 individuals who retired from several Texas school districts before July 1, 2004 were improperly exempted from Government Pension Offset because they did not meet the last day of employment provision.
+
+Improper Retirement and Survivor Payments Resulting from the Annual Earnings Test
+Objective
+To determine whether SSA properly identifies and adjusts benefits to individuals who are subject to the Annual Earnings Test.
+Background
+Social Security benefits are meant to replace, in part, earnings lost to an individual or family because of retirement, disability or death.  SSA uses an earnings test to measure the extent of a beneficiary’s retirement and determine the amount, if any, to be deducted from monthly benefits.  Benefit deductions are made from benefits due any beneficiary under Full Retirement Age who earns an amount, either in wages or self-employment income or both, over the annual exempt amount.   
+To ensure beneficiary compliance with the earnings test, SSA uses the earnings posted to the Master Earnings File and compares those amounts to what the beneficiary may have reported for purposes of the earnings test.  This process is designed to detect overpayment situations where a beneficiary incorrectly reported his/her earnings for the year.  Certain potential underpayment situations are also identified, and the beneficiary is notified that an annual earnings report is required for the underpayment to be paid.
+Multiple Direct Deposits for Title XVI Recipients into the Same Bank Account
+Objective
+To determine whether individuals are improperly receiving SSI payments through multiple direct deposits to the same bank account.
+Background
+SSA maintains a Supplemental Security Income Record to administer SSI payments.  The Supplemental Security Income Record includes information, such as the recipient’s name, SSN, address, representative payee information, bank account information, and payment history.  SSA’s SSI Duplicate Payment Project is designed to eliminate the possibility of a recipient receiving duplicate payments based on multiple SSI records.  SSA runs the SSI Duplicate Payment Project quarterly, and cases that meet the matching criteria are transmitted to the appropriate SSA office.  However, the potential risk in diverting funds exists due to the lack of procedures to match bank account information and identifying unrelated individuals depositing payments in the same bank account.
+
+
+
+Supplemental Security Income Recipients Eligible as Disabled Children Under the Old-Age, Survivors, and Disability Insurance Program
+Objective
+To determine whether SSI recipients who previously received OASDI benefits as child beneficiaries are eligible for additional OASDI benefits.
+Background
+The SSI program provides cash assistance to individuals who have limited income and resources and who are either age 65 or older, blind or disabled.  The OASDI program provides benefits to qualified retired and disabled workers and their dependents, and to survivors of insured workers.  According to SSA policy, an application for benefits under any one program is considered an application for all programs administered by the Agency. 
+Individuals receiving SSI payments may also be eligible for benefits as disabled children under the OASDI program.  To be eligible, individuals must
+be disabled before attaining age 22;
+not be entitled to OASDI benefits based on their own work history; and
+have parents who are receiving OASDI benefits or are deceased.
+Generally, non-medical factors are not considered when determining eligibility for OASDI benefits when applicants are classified as disabled children.  
+Supplemental Security Income Recipients Whose Medicare Benefits Were Terminated Because of Death
+Objective
+To determine whether SSI payments should be terminated for recipients whose Medicare benefit records indicate they are deceased.
+Background
+In October 2005, we were asked to evaluate an idea that was submitted through SSA’s Employee Suggestion Program.  The employee provided several examples in which SSI payments continued even though the recipients’ Medicare benefit records were terminated for death.  To evaluate this suggestion, we obtained limited Medicare and SSI data and identified seven individuals who were paid $41,576 in SSI funds after their deaths were recorded on their Medicare records.  
+
+Supplemental Security Income Underpayments on Prior Records Not Released or Offset for Outstanding Overpayments
+Objective
+To determine whether SSA’s internal controls are adequate to ensure SSI underpayments on closed records are identified and properly released or offset for overpayments.
+Background
+In a 2001 audit, we reviewed overpayments on prior SSI records that were not carried forward for collection on current payment records.  We found outstanding overpayments were not transferred to newly established Supplemental Security Records.  We identified $93.54 million in overpayments that should have been transferred to recipients’ current records.  Information obtained during our prior review indicated this condition was also occurring for SSI underpayments on prior records, which will be the focus of this review.
+The Social Security Administration’s Accountability of Federal Emergency Management Agency Funds Provided for Hurricane Relief Efforts
+Objective
+To evaluate the effectiveness of SSA’s internal control procedures and accountability of funds provided by the Federal Emergency Management Agency (FEMA) in response to Hurricanes Katrina, Rita, and Wilma.
+Background
+To effectively manage Federal response and recovery efforts following a national incident, FEMA, which is part of DHS, is authorized to use Mission Assignments.  These Assignments expedite aid by requesting reimbursable assistance from other Federal agencies.  Mission Assignments direct other Federal agencies to complete specific tasks in preparation for, or response to, a Presidential declaration. 
+SSA was authorized $1.2 million for costs associated with its Mission Assignments.  The Mission Assignment included a reimbursable cost estimate for travel, per diem, and overtime costs for volunteers.  To date, SSA has received reimbursement for 58 employees who reported for FEMA assignments.
+Congress and the public have raised concerns about the management of Federal funds provided for hurricane relief.  To identify possible fraud, waste, abuse or mismanagement, DHS OIG is requesting that Inspectors General review the use of Mission Assignment funds within their respective agencies.
+The Social Security Administration’s Controls and Procedures over Supplemental Security Income Death Alerts
+Objective
+To evaluate the effectiveness of SSA’s controls and procedures for resolving SSI death alerts and the recovery of improper payments after a beneficiary’s death.  
+Background
+Most SSI recipient deaths are reported by relatives, friends, and funeral homes.  The remaining deaths are identified through computer matches of death reports SSA receives from Federal and State agencies.  SSA compares these death reports to its payment files using the Death Alert Control and Update System.  If the comparison indicates payments have been made after death or there is conflicting information about the date of death, the Death Alert Control and Update System generates an alert.  SSA’s procedures state that field offices should resolve death alerts within 30 days.
+The Social Security Administration’s Monitoring of Dedicated Accounts for Supplemental Security Income Recipients
+Objective
+To determine whether SSA complied with its policies and procedures regarding the monitoring of dedicated accounts for SSI recipients.
+Background
+Public Law 104-193, enacted August 22, 1996, requires that certain past due payments for SSI recipients under age 18 be placed in dedicated accounts, which are separately maintained from other accounts and may only be used for certain expenditures.  Only SSI underpayments may be deposited into dedicated accounts.  
+A dedicated account must be established when the applicable past due SSI payment exceeds six times the maximum monthly benefit payable.  There are over 26,000 recipients with dedicated account indicators on their Supplemental Security Record.  As of April 2006, these dedicated accounts totaled about $65 million. 
+Generally, these funds are managed by representative payees, who may only use the funds for allowable expenses.  Allowable expenses must be related to the recipients’ impairments and include impairment-related expenses for medical treatment and education or job skills training.  The funds may not be used for nonimpairment-related expenses, including food, housing, clothing, and personal items.  Repayments of SSI overpayments are not considered allowable expenses.  However, SSA may approve use of dedicated account funds for basic living expenses to prevent a recipient from becoming homeless or malnourished.  Representative payees are required to annually file a Representative Payee Report of Benefits and Dedicated Account, SSA-6233 BK, to report how dedicated funds were spent.
+The Social Security Administration’s Title II Disability Insurance Triennial Redetermination Process
+Objective
+To determine whether SSA is accurately processing DI cases that require a triennial redetermination.
+Background
+Workers injured on the job may qualify for DI benefits under Title II of the Social Security Act.  In addition to DI benefits, disabled workers may be eligible for benefits under Federal and State WC programs.  However, when an injured worker receives both DI and WC benefits, the individual may receive more in disability payments than they earned while working.  To prevent this, SSA offsets (reduces) DI payments based on the amount of monthly WC benefits.
+To protect beneficiaries against inflation, SSA is required to redetermine the beneficiary’s average current earning when the DI benefit has been subject to a WC offset for 3 consecutive years.  The triennial redetermination can result in additional DI benefits.
+Title II Beneficiaries Living in Canada and England  (2 Reviews)
+Objective
+To verify the existence of Title II beneficiaries residing in Canada and England and ensure SSA’s records are accurate.
+Background
+SSA pays retirement, disability or survivor benefits to eligible individuals and/or family members under Title II of the Social Security Act.  Beneficiaries receiving Social Security benefits may continue collecting benefits while residing outside the United States.  However, because these individuals reside outside the United States, there is a risk SSA will not timely detect events—such as death—that could impact a beneficiary’s eligibility or payment amount.
+Of the approximately 400,000 Title II beneficiaries residing outside the United States, about 97,000 have an address in Canada.  Also, about 95 percent of the beneficiaries in Canada are over age 65 and receiving retirement benefits; whereas the remaining 5 percent are either receiving disability or survivor benefits.
+Since 95 percent of the approximately  24,000 Social Security beneficiaries residing in England are collecting retirement benefits, the greatest risk for SSA is that the beneficiary could die and benefits would continue to be paid.  This could lead to both improper payments and fraud if someone else were to use the funds.
+
+Title XVI Payments Sent to Social Security Administration Field Offices
+Objective
+To determine whether SSA complied with its policies governing recipients’ use of field office addresses to receive SSI payments.
+Background
+Consistent with the requirements of the Homeless Eligibility Clarification Act, SSA policy allows eligible SSI recipients to use field office addresses if they do not reside in a permanent dwelling or do not have a fixed home or mailing address.  Using a field office address should be a last resort and should not be simply for security reasons.  SSA field offices are required to maintain records of approved individuals and log the distribution of all checks.
+Based on an initial data extract pulled before Hurricane Katrina, we estimate that SSA uses field office addresses to mail checks to approximately 3,800 SSI recipients.  This totals approximately $2 million in monthly payments received and distributed by personnel in SSA field offices.  
+Unprocessed Manual Recalculations for Title II Overpayments
+Objective
+To determine whether SSA (1) adjusts Title II benefits when earnings are removed from individuals’ earnings record and  (2) calculate and assess overpayments, when appropriate.
+Background
+As part of an earlier audit, we found cases where earnings were removed from Title II beneficiaries’ earnings records, but no recomputation of their benefits was performed.  As a result, these individuals were being overpaid.  Although the earlier audit focused on individuals who had self-employment income removed from their earnings record, a review of all earnings (wages and self-employment) that were removed may identify additional situations where manual recomputations have not been performed, resulting in overpayments.
+W-2 Earnings for Individuals Related to Disabled Workers
+Objective
+To identify individuals receiving DI benefits who may have participated in work activity and hidden income by using a relative’s SSN.
+Background
+Disabled beneficiaries who return to work may lose their Social Security benefits.  As a result, beneficiaries who do not report their earnings to SSA increase their available income by continuing to receive benefits while also working.  We have identified cases where beneficiaries hid their wages from SSA by using a relative’s name and SSN when working. 
+INTERNAL CONTROL ENVIRONMENT AND PERFORMANCE MEASURES
+Internal control comprises the plans, methods, and procedures used to meet missions, goals, and objectives.  SSA’s management is responsible for establishing and maintaining internal control to achieve the objectives of effective and efficient operations, reliable financial reporting, and compliance with applicable laws and regulations.  Similarly, SSA management is responsible for determining, through performance measurement and systematic analysis, whether the programs it manages achieve intended objectives.  
+OMB Circular A-123 requires that the Agency and its managers take systematic and proactive measures to develop and implement appropriate, cost-effective internal control for results-oriented management.  One of the main work processes SSA manages is the development of disability claims under the DI and SSI programs.  Accordingly, SSA management is responsible for establishing appropriate controls over this process.  Disability determinations under DI and SSI are performed by DDSs in each State in accordance with Federal regulations.  Each DDS is responsible for determining claimants’ disabilities and ensuring adequate evidence is available to support its determinations.  SSA reimburses the DDS for 100 percent of allowable expenditures up to its approved funding authorization.  
+From FY 2000 through May 2006, we conducted 46 DDS administrative cost audits, identifying over $82 million in questioned costs and/or funds that could be put to better use.  In 25 of the 46 audits, we identified internal control weaknesses.  For example, we reported that improvements were needed to ensure Federal funds were properly drawn and payments to medical providers were in accordance with Federal regulations.  The lack of effective internal controls can result in the mismanagement of Federal resources and increase the risk of fraud.  We will conduct multiple audits of state DDSs in FY 2007 to ensure the costs claimed by the DDSs are allowable and the DDSs have proper internal controls over the accounting and reporting of the administrative costs SSA reimburses.  
+Another area that requires sound management and effective internal controls is the selection and oversight of contractors that assist the Agency in meeting its mission.  Contracting is increasingly seen as an effective way to support Federal agencies in managing increasing workloads with diminished levels of staff.  The volume of Federal contract spending—$328 billion in FY 2004, up 87 percent from FY 1997—demonstrates the importance of developing and managing Federal contracts in ways that will ensure the best contract outcomes and the best return on the taxpayers’ dollar.  In FY 2005, SSA spent over $848 million on contracts.  We will review multiple contracts in FY 2007 to ensure SSA is getting the services it is paying for and that SSA has proper internal controls in place to ensure effective oversight of contractors.  
+The Government Performance and Results Act requires that SSA develop multi-year strategic and annual performance plans that establish the Agency’s strategic and annual performance goals.  The performance plans also contain the Agency’s annual performance measures used to determine whether SSA is achieving its goals.  In addition to legislation calling for greater accountability in the Government, the PMA has focused on the integration of the budget and performance measurement processes.  The PMA calls for agencies to identify high quality outcome measures, accurately monitor programs’ performance, and integrate this presentation with associated costs.  Also, SSA managers, Congress, external interested parties, and the general public need sound data to monitor and evaluate SSA’s performance.  In FY 2007, we will continue to assess the reliability of SSA’s performance data and the meaningfulness of SSA’s performance measures to ensure that SSA has the information needed to effectively manage its programs and track progress towards meeting its goals.  
+In FY 2007, we plan to complete 31 reviews, begin 20 reviews and oversee the reviews of 13 performance measures in this area.
+
+We plan to complete the following reviews in FY 2007
+Administrative Costs Claimed by State Disability Determination Services:  California, Florida, Idaho, Illinois, Maryland, Mississippi, Missouri, New York, Puerto Rico, Rhode Island, Tennessee, Vermont, and West Virginia 
+Association of University Centers on Disabilities Contract Number 0600-01-60127 
+Contract Audits:  I. Levy and Associates, Inc., Meridian Management Corporation, Paragon Systems, Inc., and Riojas Enterprise, Inc.
+Controls over Contract Costs for the Demonstration Project for Non-Attorney Representatives
+Controls over Representative Payee Accounting of Social Security Funds
+Fiscal Year 2006 Financial Statement Audit Oversight
+Fiscal Year 2006 Inspector General Statement on the Social Security Administration’s Major Management Challenges
+Indirect Costs for the Connecticut Disability Determination Services for the Period July 1, 2003 Through September 30, 2005
+Process for Awarding Sole Source Contracts
+The Social Security Administration’s Compliance with Employee Tax Requirements
+The Social Security Administration’s Oversight of the PSI Group, Inc. 
+We plan to begin the following reviews in FY 2007
+Administrative Costs Claimed by the Alabama, Colorado, District of Columbia, Georgia, Kentucky, Nebraska, New Mexico, Pennsylvania, Utah, and Washington Disability Determination Services
+Contract Audit - I. Levy and Associates, Inc., Contract for Development and Implementation of the Data Management Architecture at the Oklahoma Disability Determination Services
+Contract Audit, MDRC
+Controls over the Social Security Administration’s Business Services Online Program
+Credit Evaluations for Social Security Administration Employees Before the Issuance of Government Charge Cards
+Fiscal Year 2007 Financial Statement Audit Oversight
+Fiscal Year 2007 Inspector General Statement on the Social Security Administration’s Major Management Challenges
+Grants Management
+MAXIMUS’ Incurred Cost Rates for Fiscal Years 2004 and 2005
+MAXIMUS’ Youth Continuing Disability Review Contract (Contract Number 0600-99-38740) 
+Social Security Administration Procedures for Collecting Backup Withholdings Taxes
+We Plan to Oversee Reviews of 13 Performance Indicators
+
+Administrative Costs Claimed by State Disability Determination Services
+We will be conducting reviews in the following DDSs:  California, Florida, Idaho, Illinois, Maryland, Mississippi, Missouri, New York, Puerto Rico, Rhode Island, Tennessee, Vermont, and West Virginia to
+1.  Evaluate the DDS’ internal controls over the accounting and reporting of administrative costs, 
+2.  Determine whether costs claimed by the DDS were allowable and funds were properly drawn, and
+3.  Assess limited areas of the general security controls environment.
+Background
+The DI program was established in 1956 under Title II of the Social Security Act to provide benefits to wage earners and their families in the event the wage earner becomes disabled.  In 1972, Congress enacted the SSI program to provide a nationally uniform program of income to financially needy individuals who are aged, blind, or disabled.  Disability determinations under the DI and SSI programs are performed by an agency in each State in accordance with Federal regulations.  In carrying out its obligation, each State agency is responsible for determining the claimants’ disabilities and ensuring that adequate evidence is available to support its determinations.
+Association of University Centers on Disabilities Contract Number— 0600-01-60127 
+Objective
+To determine whether costs claimed by the Association of University Centers on Disabilities for Contract Number  600-01-60127 were allowable, allocable, and reasonable according to applicable Federal regulations and the contract’s terms.
+Background
+SSA’s Office of Acquisitions and Grants requested an audit of costs incurred by the Association of University Centers on Disabilities for Contract Number  600-01-60127.  The purpose of the contract was for the Association to determine ways SSA can improve policies and procedures for the adjudication of childhood cases.  The contract period was from  September 2001 through May 2005.  The total cost claimed for the contract period was approximately $1.6 million.  
+
+
+
+Contract Audits
+Objective
+To (1) review the services provided and the related costs charged to SSA for adherence to the negotiated contract terms and applicable regulations and (2) ensure SSA personnel properly monitored the contract for the following five contracts.
+Background
+I Levy and Associates, Inc.:  The first contract we will review was awarded to migrate I. Levy software from the DDSs WANG VS computer systems to the new IBM AS-400 computer systems.  The contract was completed between September 2000 and September 2005 at 26 DDSs for a total cost of $18 million.
+The second contract we will review was awarded to I. Levy and Associates, Inc., to develop and implement an electronic folder interface and data management architecture at State DDSs.  The contract, which began in September 2002, is on-going and valued at $17 million.
+Meridian Management Corporation:   SSA contracted with Meridian Management Corporation for facilities management services.  SSA initiated a $15 million contract for maintenance, repair, and rebuilding activities at the Great Lakes Program Service Center which will be the focus of our review.  The fixed price contract is for the period of April 2003 through November 2006.
+Paragon Systems, Inc.:  The contract was to provide Security Guard Services—Armed/Unarmed Security Guard Services at the SSA National Computer Center and Security West Building in Woodlawn, Maryland.  The contract is for $40 million for the period January 2006 through January 2007.  
+Riojas Enterprises, Inc.:  The contract was awarded to provide case folder filing support services at SSA’s Megasite Folder Storage Facility.  The contract was performed between August 1998 and March 2004 at a total cost of about $32 million.
+Controls over Contract Costs for the Demonstration Project for Non-Attorney Representatives
+Objective
+To review the contract costs associated with the demonstration project for non-attorney representatives.
+Background
+In January 2005, SSA awarded a $335,000, 1-year renewable contract to a California company to assist in determining the eligibility of non-attorney representatives to participate in the demonstration project.  The contractor was to develop a website, accept applications and fees, verify education and experience, conduct background checks, assist SSA in developing the examination, and administer the examination.  
+Controls over Representative Payee Accounting of Social Security Funds
+Objective
+To ensure annual representative payee accounting is done timely and accurately and to ensure that, when the accounting is not completed, SSA takes appropriate action.
+Background
+The Social Security Protection Act of 2004 gives SSA the authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting reports. 
+Fiscal Year 2006 Financial Statement Audit Oversight
+Objective
+To fulfill our responsibilities under the Chief Financial Officers Act and related legislation for ensuring the quality of the audit work performed, we will monitor PricewaterhouseCoopers’ audit of SSA’s financial statements.
+Background
+The Chief Financial Officers Act requires that agencies annually prepare audited financial statements.  Each agency’s Inspector General is responsible for auditing these financial statements to determine whether they provide a fair representation of the entity’s financial position.  This annual audit also includes an assessment of the agency’s internal control structure and its compliance with laws and regulations.  The audit work to support this opinion of SSA’s financial statement will be performed by PricewaterhouseCoopers.  We will monitor the contract to ensure reliability of PricewaterhouseCoopers’ work to meet our statutory requirements for auditing the Agency’s financial statements.
+Fiscal Year 2006 Inspector General Statement on the Social Security Administration’s Major Management Challenges
+Objective
+To summarize for inclusion in SSA’s Performance and Accountability Report, our perspective on the most serious management and performance challenges facing SSA.
+Background
+In November 2000, the President signed the Reports Consolidation Act of 2000, which requires that Inspectors General provide a summary and assessment of the most serious management and performance challenges facing Federal agencies and the agencies’ progress in addressing them.  This document responds to the requirement to include this statement in SSA’s Performance and Accountability Report.
+The top management issues facing SSA in FY 2006, as determined by the OIG, were:
+Social Security Number Protection,
+Management of the Disability Process,
+Improper Payments and Recovery of Overpayments,
+Internal Control Environment and Performance Measures,
+Systems Security and Critical Infrastructure Protection, and 
+Service Delivery and Electronic Government.
+Indirect Costs for the Connecticut Disability Determination Services for the Period July 1, 2003 Through September 30, 2005
+Objective
+To assess the indirect costs for the Connecticut DDS for the period July 1, 2003-September 30, 2005 and follow up on our prior recommendations.
+Background
+SSA requested an audit of the indirect costs at the Connecticut DDS. 
+Process for Awarding Sole Source Contracts
+Objective
+To assess the Office of Acquisition and Grants’ compliance with its noncompetitive contract award process.  Specifically, we will review the process SSA used to justify sole source acquisitions.
+Background
+The Office of Acquisition and Grants is responsible for awarding and administering contracts, orders, and grants.  It also issues SSA’s acquisition policies and procedures.  The Office of Acquisition and Grants uses various mechanisms to award contracts to purchase supplies or services.  One mechanism is a sole source acquisition.  The Federal Acquisition Regulation 2.101 defines sole source acquisition as “a contract for the purchase of supplies or services that is entered into or proposed to be entered into by an agency after soliciting and negotiating with only one source.”  
+The Social Security Administration’s Compliance with Employee Tax Requirements
+Objective
+To determine whether SSA is (1) appropriately paying employment taxes on wages and (2) reporting required wage information and other payments on the designated IRS forms.
+Background
+The IRS has requested that each OIG determine whether its parent agency is complying with Federal tax laws.  Federal agencies are subject to the same employment tax requirements as all other employers.  The Internal Revenue Code requires that employers pay employment taxes on wages and report wages and certain other payments on various IRS forms.  Federal employment taxes include Federal income tax withholdings, Social Security, and Medicare taxes.  Employers are required to make deposits of employment taxes on a daily, weekly, or semi-weekly schedule depending on the amount of tax they accumulate for deposits.
+The Social Security Administration’s Oversight of PSI Group, Inc.
+Objective
+To evaluate SSA’s oversight of PSI Group, Inc. Presort Mail Contract for the period August 2005 to August 2006.  Specifically, we will determine whether SSA’s mail (which includes SSN cards) was sorted timely, within specifications and at the agreed-upon price.
+Background
+In a prior report, we recommended SSA “periodically perform and document a comprehensive security review of the presort mail contractor’s facility.”    
+The contractor processes about 21 million pieces of mail each year.  The contract was awarded for $391,000 and covered the period August 2005 to August 2006.  The contract can be renewed for 4 additional years.  
+Performance Indicator Audits:  The Social Security Administration’s Performance Data
+Objective
+To determine the reliability of the performance data SSA uses to measure selected performance indicators.
+Background
+Congress passed the Government Performance and Results Act of 1993 to bring greater accountability to Federal agencies.  The Act establishes a system for strategic and annual performance planning and reporting to set goals for program performance and to measure results.  The law requires each agency to create  (1) 5-year strategic plans, (2) annual performance plan, and (3) annual performance reports.  
+The success of SSA’s performance measurement initiatives hinges on the quality of the data used to measure and report on program performance.  Consequently, it is important that SSA have assurance that the data reported is reliable, meaningful and that its performance report will be useful to Congress and agency management.
+We will oversee a contract to review SSA’s performance data and the systems from which it is generated to gain assurance that the data reported in the performance plan are reliable and meaningful.  In FY 2007, the contractor will issue reports on 
+
+Claims Processing, 
+DDS Processing, 
+Electronic Service Delivery, and 
+Hearing and Appeals Processing.  
+The contractor will also begin reviews to assess the reliability of the data used with the following performance measures.
+Issue annual SSA-Initiated Social Security Statements to eligible individuals age 25 or older
+Minimize skill and knowledge gaps in mission-critical positions
+Align employee performance with Agency mission and strategic goals
+Percent of OASDI payments free of  overpayments and underpayments
+Average processing time for hearings appeals
+DDS net accuracy rate (allowances/denials combined)
+Number of SSI disabled beneficiaries earning at least $100 per month
+Remove 3 percent of the earnings items remaining in the ESF for a new TY and post the earnings to the correct earnings record
+Continue to achieve 2 percent productivity improvement on average
+Maintain the number of initial disability claims pending in the DDS 
+Percent of individuals who do business with SSA rating the overall service is “excellent,” “very good,” or “good”
+SSI non-disability redeterminations processed
+SSA hearings case production per work year
+SYSTEMS SECURITY AND CRITICAL INFRASTRUCTURE PROTECTION
+In a global information society, where information routinely travels through cyberspace, the importance of security is widely accepted.  In addition, information and the infrastructures that deliver the information are pervasive throughout organizations—from the user's platform to local and wide area networks to servers to mainframe computers.  The growth in computer interconnectivity brings a heightened risk of the disruption of the operation of critical information systems and exposure of sensitive data.  The Government must continually strive to secure information systems and the data contained therein.  
+SSA’s information security challenge is to understand and mitigate system vulnerabilities.  At SSA, this means ensuring the security of its critical information infrastructure and sensitive data.  A recent incidence of the massive loss of personal information by a Federal agency demonstrates the importance of data security.  The public will be reluctant to use electronic access to SSA services if it does not believe its systems and data are secure.  Without due diligence, sensitive information can become available to those who should not have it and may use it for personal gain.  To address increasing work loads and a changing work environment, SSA constantly introduces new technologies, such as IPv6 and Voice Over Internet Protocol.  New technology often brings advantages, but also security challenges.  The Agency needs to understand and address potential risks before such technology is implemented. 
+SSA addresses critical information infrastructure and systems security in a variety of ways.  For example, it has created a Critical Infrastructure Protection work group that works toward compliance with various directives, such as the Homeland Security Presidential Directives (HSPD) and the Federal Information Security Management Act of 2002 (FISMA).  SSA routinely releases security advisories to its employees and has hired contractors to provide expertise in assessing and addressing security vulnerabilities.  In addition, SSA plans to minimize the risks associated with a single, national computing facility by acquiring a second fully functional, co-processing data center.
+HSPD 12 mandates the development of a common identification standard for all Federal employees and contractors.  Federal Information Processing Standard 201, Personal Identity Verification of Federal Employees and Contractors, was developed to satisfy the requirements of HSPD 12.  The Agency created a work group that coordinates with other agencies and OMB to address HSPD 12.  SSA expects to meet the October 27, 2006 date for compliance with PIV I, which addresses the verification of suitability of Federal employees and contractors, and is making progress on PIV II, which addresses the technical aspects of implementing HSPD 12.  The Agency has 2 years to become fully compliant.  We plan to evaluate SSA’s efforts to comply with HSPD 12. 
+Under FISMA, we annually evaluate SSA’s security program.  FISMA requires that Agencies institute a sound information security program and framework.  Since FISMA’s inception, we have worked with the Agency to ensure prompt resolution of security issues.  The House Government Reform Committee rated the Agency “A+” in 2005 on computer security based on its compliance with FISMA.
+We continuously monitor the Agency’s efforts to protect its valuable information as well as its implementation of new technology, such as IPv6 and Voice Over Internet Protocol to ensure its information security program is operating effectively.
+In FY 2007, we plan to complete 13 reviews and begin 14 reviews in this area.
+
+
+
+We plan to complete the following reviews in FY 2007
+Compliance with On-site Security Control and Audit Review Requirements—Four Reviews
+Federal Information Security Management Act
+Follow-up:  The Social Security Administration’s Monitoring of Potential Employee Systems Security Violations
+Follow-up:  The Social Security Administration’s Processing of Internal Revenue Service Overstated Wage Referrals
+General Controls of the Florida Division of Disability Determinations Claims Processing System
+Social Security Administration Data Access Provided by Disability Determination Services Positional Profiles
+The Social Security Administration’s Information Technology Maintenance and Local Area Network Relocation Contract
+The Social Security Administration’s iSeries Patch Management Process
+The Social Security Administration’s Management of Information Technology Development Projects
+The Social Security Administration’s Second Data Processing Center
+We plan to begin the following reviews in FY 2007
+Accuracy of Death Information in the Death Alert Control and Update System 
+Controls over Manual Wage Adjustments
+Follow-up:  Physical Security for the Social Security Administration’s Laptop Computers, Cellular Telephones, and Pagers
+Follow-up:  The Social Security Administration’s Implementation of Program Operations Manual System Security Requirements at Disability Determination Services
+General Controls of the Pennsylvania Disability Determination Services’ Claims Processing System
+Medicare Modernization Act Project
+Productivity Gains Realized from System Development Projects
+Security Review of the Social Security Administration’s Internet Protocol Version 6
+The Effectiveness and Security of the eWork System
+The Social Security Administration’s Contracting for its Purchase Order/Contract System
+The Social Security Administration’s Efforts to Meet Suitability Requirements
+The Social Security Administration’s Implementation of Active Directory
+The Social Security Administration’s Incident Response and Reporting System
+The Social Security Administration’s Voice over Internet Protocol 
+Compliance with On-site Security Control and Audit Review Requirements  (4 Reviews)
+Disability Determination Services, Field Offices, ODAR, and Program Service Centers
+Objective
+To assess each Region’s procedures for (1) selecting offices for an Onsite Security Control and Audit Review (OSCAR), (2) ensuring appropriate coverage of vulnerable areas, (3) correcting identified deficiencies, and (4) using the results to improve the overall OSCAR process.
+Background
+SSA must comply with the Federal requirements associated with management controls and provide assurance the financial, program and administrative processes are functioning as intended.  These requirements include its Federal Managers’ Financial Integrity Act.  SSA designed the OSCAR program to satisfy these requirements.  
+SSA conducts OSCARs at DDSs, field offices, teleservice centers, hearing offices, and program service centers.  These reviews cover several program and administrative functions.  For example, the field office OSCARS cover (1) third-party draft accounts; (2) acquisitions; (3) refund and remittance processes; (4) time and attendance; (5) security of automated systems; (6) physical and protective security; (7) enumeration; and (8) integrity review areas.
+Successful implementation of the OSCAR process, as well as appropriate follow up on problem areas, can correct deficiencies in SSA’s programs, ensure adequate controls, and reduce the potential risk to (1) the safety of Federal employees and the public, (2) Federal resources, and (3) sensitive information.
+Federal Information Security Management Act
+Objective
+To determine whether SSA is in compliance with FISMA.
+Background
+FISMA requires that agencies maintain an agency-wide information security program.  Annual reviews of the security program are performed by the Agency and the OIG.  Each year, OMB issues questions to be answered concerning agencies’ compliance with FISMA.
+
+
+
+
+Follow-up:  The Social Security Administration’s Monitoring of Potential Employee Systems Security Violations
+Objective
+To determine whether SSA implemented recommendations in our report, Social Security Administration’s Monitoring of Potential Employee Systems Security Violations.
+Background
+In June 1998, SSA established a uniform set of Sanctions for Unauthorized Systems Access Violations to secure the integrity and privacy of the personal information contained in the Agency’s computer systems and ensure any violations of the confidentiality of its computer records are treated consistently. 
+Our prior report recommended SSA take corrective actions to improve the effectiveness of controls over employee systems security violations.  The Agency agreed with our recommendations.  This review will assess SSA’s progress in implementing the recommendations as well as other controls in place to monitor employee system security violations.
+Follow-up:  The Social Security Administration’s Processing of Internal Revenue Service Overstated Wage Referrals
+Objective
+To determine whether SSA has  (1) processed IRS wage referrals and  (2) coordinated with the IRS to streamline or automate the wage referral process.
+Background
+Each year, a number of taxpayers contact the IRS to dispute wages posted to their earnings record as well as the associated taxes.  If the IRS concurs with the taxpayer, it sends a referral to SSA stating the earnings reported under a specific SSN do not belong to the person assigned the SSN.  The IRS does not collect Federal income tax from the individual on the disputed earnings and notifies SSA to correct the individual’s earnings record.  SSA and the IRS have previously agreed on the information that is needed to process these referrals. 
+In our March 2003 audit, The Social Security Administration’s Processing of Internal Revenue Service Overstated Wage Referrals, we found that SSA had not processed approximately 12,000 IRS referrals to determine whether the individuals had overstated wages on their earnings records.  We recommended that SSA begin processing these referrals.  SSA concurred with our recommendations.
+
+
+
+General Controls of the Florida Division of Disability Determinations Claims Processing System
+Objective
+To assess the general controls environment for the Florida Division of Disability Determinations claims processing system.
+Background
+The DI program provides benefits to wage earners and their families in the event the wage earner becomes disabled.  The SSI program is designed to help blind, and/or disabled people who have limited resources.  Disability determinations under both programs are performed by an agency in each State or other responsible jurisdiction.  In carrying out its obligation, each responsible agency determines claimants’ disabilities and ensures there is adequate evidence available to support its determinations. 
+Sensitive SSA data, processed and stored by each DDS, should be protected from inappropriate or unauthorized access, use, and disclosure.  DDSs are expected to provide a control environment that meets SSA’s minimum security requirements.
+Social Security Administration Data Access Provided by Disability Determination Services Positional Profiles
+Objective
+To determine whether the positional profiles assigned to DDS employees provide more access to SSA data than needed to do their jobs.
+Background
+FISMA and SSA’s Information Systems Security Handbook require that user access to SSA information systems be based on the principles of “need to know” and “least privilege.”  As such, the information users may be authorized to access, use and/or modify, must be limited to that required to perform authorized work.  
+DDS employees have been given access to SSA data.  SSA uses positional profiles controlled by security access software to limit access for SSA and DDS staff to the “need to know” and “least privilege” principles.  Each positional profile is linked to a job title and has access to a certain subset of SSA’s applications while limiting the types of access (establish, update, or query) based on the needs of that job.
+
+
+
+The Social Security Administration’s Information Technology Maintenance and Local Area Network Relocation Contract
+Objective
+To determine whether SSA has adequate controls in place for the administration, oversight and accountability of its contract for information technology maintenance and local area network relocation.
+Background
+Earned value management (EVM) is a project (investment) management tool effectively integrating the investment scope of work with schedule and cost elements for optimum investment planning and control.     It is a numerical representation of project costs and schedule status.  Earned value is the budgeted value earned when the budgeted work is performed.  Earned value is then compared to the actual costs and the planned values (budgets) to measure performance.
+On August 23, 2004, OMB issued Memorandum M-04-24, Expanded Electronic Government President’s Management Agenda Scorecard Cost, Schedule and Performance Standard for Success.  This memorandum sets forth the criteria to be used and evidence necessary to evaluate whether a Federal agency has complied with the EVM standard.  To achieve a “green” level of performance for this initiative, the agency’s actual performance cannot vary by more than  10 percent from its cost, schedule and performance goals.
+The Social Security Administration’s iSeries Patch Management Process
+Objective
+To determine the effectiveness of the patch management process implemented by SSA and the DDSs for the iSeries platform.
+Background
+Vulnerabilities are weaknesses in software that a malicious entity could exploit to gain greater access and/or permission than is authorized.  A ‘patch’ is a piece of software code that is inserted into a program to temporarily fix a previously unknown software defect.  The software needing a patch can be either hardware or application specific.  Patches are developed and released by software vendors when vulnerabilities are discovered.  GAO reported that patch management is a critical process that can be used to alleviate many of the challenges involved with securing computing systems from attack.
+
+
+
+
+
+The Social Security Administration’s Management of Information Technology Development Projects
+Objective
+To determine whether SSA is receiving the intended value from its acquisition and management of information technology resources.
+Background
+One of SSA’s strategic goals supports the delivery of citizen-centered service and the expansion of the E-Government element of the PMA.  Technology is essential to achieving efficiencies and enabling employees to deliver the kind of service that every claimant, beneficiary and citizen needs and deserves.  This requires the development of new IT projects.  Without proper management, it is difficult to get the appropriate outcome that will have sufficient impact on SSA.
+The Social Security Administration’s Second Data Processing Center
+Objective
+To determine whether SSA’s acquisition of a second data processing center was conducted in accordance with Government standards and industry best security practices.
+Background
+SSA needs to mitigate and/or minimize the risks associated with a single, national computing facility.  The Agency plans to accomplish this objective by acquiring a second, fully functional, co-processing data center.  The data centers will be engineered so the critical workloads of each facility can be assumed by the other center if the need arises.  
+SERVICE DELIVERY AND ELECTRONIC GOVERNMENT
+This area includes the challenges of the Medicare Prescription Drug Program, Representative Payee Process, Electronic Government and Managing Human Capital.
+Medicare Prescription Drug Program
+The Medicare Prescription Drug, Improvement and Modernization Act of 2003 requires that SSA undertake several Medicare-related responsibilities.  This includes making low-income subsidy determinations, notifying individuals of the availability of these subsidies, and withholding premiums from monthly benefits for eligible beneficiaries who request such an arrangement.  By April 30, 2006, SSA had rendered over 3.9 million subsidy eligibility decisions.  
+Representative Payee Process 
+When SSA determines a beneficiary cannot manage his or her benefits, it selects a representative payee who must use the payments for the beneficiary’s needs.  SSA has reported there are about 5.3 million representative payees who manage benefit payments for approximately 7 million beneficiaries.  While representative payees provide a valuable service for beneficiaries, SSA must provide appropriate safeguards to ensure they meet their responsibilities to the beneficiaries they serve.  
+Our audits have identified
+deficiencies with the accounting for benefit receipts and disbursements,
+vulnerabilities in the safeguarding of beneficiary payments,
+poor monitoring and reporting to SSA of changes in beneficiary circumstances,
+inappropriate handling of beneficiary-conserved funds, and
+improper charging of fees.
+The Social Security Protection Act of 2004 provided several new safeguards for those individuals who need a representative payee.  In addition, it presented significant challenges to SSA to ensure representative payees meet beneficiaries’ needs.  For example, it requires that SSA conduct periodic on-site reviews of representative payees and a statistically valid survey to determine how payments made to representative payees are used.  It also authorizes SSA to impose civil monetary penalties for offenses involving misuse of benefits received by a representative payee.  
+Electronic Government
+E-Government has changed the way Government operates and the way citizens relate to Government.  Within the next 5 years, SSA expects to provide cost-effective, e-Government services to citizens, businesses and other government agencies that will allow them to easily and securely conduct most of their business with SSA electronically.  SSA has five goals to support this vision. 
+Offer citizens the e-Government services they want and need.
+Ensure stewardship by protecting on-line security and privacy and the integrity of the SSA benefit payment process.
+Pursue e-Government partnerships and collaborations with other government agencies and private sector organizations.
+Implement e-Government programs that offer sound business case justification.
+Align the organization and invest in human capital to maximize e-Government progress.
+SSA’s e-Government strategy is based on the deployment of high-volume, high-payoff applications, for both the public and the Agency’s business partners.  To meet increasing public demands, SSA has pursued a portfolio of services that include on-line and voice-enabled telephone transactions to increase opportunities for the public to conduct SSA business electronically in a private and secure environment.  As of June 30, 2006, SSA had scored “green” for “Current Status” and “red” for “Progress” in Implementing the PMA on the Executive Branch Management Scorecard.
+Managing Human Capital
+SSA, like many other Federal agencies, is being challenged to address its human capital shortfalls.  As of February 2005, GAO continued to identify strategic human capital management on its list of high-risk Federal programs and operations.  GAO initially identified human capital management as high-risk in January 2001.  In addition, Strategic Management of Human Capital is one of five Government-wide initiatives contained in the PMA.  
+By the end of 2012, SSA projects its DI rolls will increase by 35 percent.  Further, by FY 2015, 54 percent of current SSA employees will be eligible to retire.  This retirement wave will result in a loss of institutional knowledge that will affect SSA’s ability to deliver quality service to the public.  Along with the workload increase, the incredible pace of technological change will have a profound impact on both the public’s expectations and SSA’s ability to meet those expectations.  
+The critical loss of institutional skills and knowledge, combined with greatly increased workloads at a time when the baby-boom generation will require its services must be addressed by succession planning, strong recruitment efforts, and the effective use of technology.  As of June 30, 2006, SSA had maintained “green” in “Current Status” and “Progress in Implementing the President’s Management Agenda” in Human Capital in the Executive Branch Management Scorecard.  The scorecard tracks how well the departments and major agencies are executing the five Government-wide management initiatives. 
+In FY 2007, we plan to complete 11 reviews and begin 9 reviews in this area.
+We plan to complete the following reviews in FY 2007
+Field Office Visitor Intake Process
+Follow-up:  Information Concerning Representative Payee Misuse of Beneficiaries’ Funds
+Follow-up:  The Social Security Administration’s Procedures to Identify Representative Payees Who are Deceased
+“In Care of” Addresses Used by Title II Beneficiaries and Title XVI Recipients
+Medicare Modernization Act-Part D Subsidy Income and Resource Verification
+Representative Payees for the Social Security Administration (4 Reviews)
+The Accuracy of Addresses on the Social Security Administration’s Social Security Statements
+The Social Security Administration’s 800-Number Automation
+We plan to begin the following reviews in FY 2007
+Individuals Convicted of Offenses Serving as Representative Payees
+Notices Generated By the Title II Redesign System
+Organizational Payees That Do Not Promptly Notify the Social Security Administration When a Beneficiary in Their Care Dies
+Public Law 108-203, Section 105, Liability of Representative Payees for Misused Funds
+Small and Disadvantaged Business Utilization
+Social Security Administration Controls to Ensure Non-Governmental Fee for Service Organizational Payees are Licensed and Bonded
+Social Security Administration Employees Serving as Representative Payees
+The Social Security Administration’s Efforts to Ensure Continued Eligibility for Recipients and Beneficiaries Aged 100 or Older
+The Social Security Administration’s Site Reviews of Representative Payees
+
+Field Office Visitor Intake Process
+Objective
+To assess the effectiveness of SSA’s Visitor Intake Process in providing quicker check-in and more timely control of field office interviews.
+Background
+Effective October 1, 2004, use of the Visitor Intake Process was mandated in all field offices.  The objective of the Visitor Intake Process is to provide quicker check-in and better/more timely control of field office interviews.  The Process, a Microsoft Access database program, is a revision of the Automated Interview Tracking System.  It is designed to track all scheduled appointments, monitor visitor information, and provide reports and charts on a variety of statistical data.  The Visitor Intake Process is designed to inform field office interviewing staffs and management of who is in the office, whether they have an appointment, and how long visitors have been waiting.  
+Follow-up:  Information Concerning Representative Payee Misuse of Beneficiaries’ Funds
+Objective
+To determine the extent to which SSA implemented certain recommendations from our prior report.
+Background
+Our June 2002 report identified several problems in SSA’s monitoring and oversight of representative payees.  SSA did not always refer misuse cases to the OIG; retained representative payees who committed misuse; and used representative payees who had their own representative payees.  To address these conditions, we included among our recommendations that SSA:
+Develop and implement a process to identify and refer prior known instances of representative payee misuse to the OIG for possible criminal, civil and/or administrative remedies.
+Follow existing policy for referring all future representative payee misuse cases to the OIG for possible criminal, civil and/or administrative remedies.
+Comply with Agency policy that representative payees are rarely retained after misuse has occurred.
+Periodically assess the continued suitability of representative payees who previously misused benefit payments.
+Automate the process that identifies incarcerated representative payees.
+Implement management controls to prevent the appointment of individuals as representative payees when they have a representative payee managing their own benefits.
+Follow up:  The Social Security Administration’s Procedures to Identify Representative Payees Who are Deceased
+Objective
+To determine whether SSA identifies all cases in which a new representative payee is needed when a former payee dies.
+Background
+In our September 1999 report, The Social Security Administration’s Procedures to Identify Representative Payees Who Are Deceased, we found SSA’s procedures did not ensure a new representative payee was selected when a former payee died.  We estimated that 2,091 deceased payees were issued $17.3 million in OASDI and SSI payments from the date of the payee’s death through June 1998.  Since SSA was not aware payments were sent to these deceased payees, SSA could not be sure these payments were used for the sole benefit of the intended beneficiaries or recipients.  SSA agreed with the six recommendations in our prior report.  
+“In Care of” Addresses Used by Title II Beneficiaries and Title XVI Recipients
+Objective
+To determine the extent of abuse of “in care of” addresses by individuals, organizations, or facilities.
+Background
+Some facilities, such as nursing homes, instruct residents to change their address to “in care of” the facility.  This circumvents the representative payee process and allows the facility to avoid the obligations that accompany being officially designated as a representative payee for the beneficiary.  This is done without regard to the resident’s capability to manage his/her funds.  The funds are directly deposited to an account the facility controls.
+“In care of” addresses may also disguise other schemes to assume control of beneficiaries’ funds or make it appear the beneficiaries are living in the United States when they are not.
+
+
+
+
+
+
+
+
+Medicare Modernization Act-Part D Subsidy Income and Resource Verification
+Objective
+To determine whether SSA verified income and resource information provided by applicants for the low-income subsidy.
+Background
+The Medicare Prescription Drug, Improvement and Modernization Act of 2003 established a new voluntary Part D Prescription Drug Program effective January 1, 2006.  The Act requires that SSA take applications and determine eligibility for a new subsidy program.  The subsidy program assists some Medicare beneficiaries who have limited financial means, to pay for voluntary Medicare prescription drug coverage under the Medicare Part D program.  Individuals who have Medicare and are receiving SSI and/or Medicaid or who participate in the Medicare Savings Program are deemed eligible for a subsidy. 
+SSA makes subsidy eligibility determinations by comparing the income and resource information provided on the application with income and resource data SSA obtains through matching agreements with other agencies.  If data inconsistencies are detected, the case will go through SSA’s verification process.
+Representative Payees for the Social Security Administration
+Objective
+We will be conducting reviews of organizational or individual representative payees in the New York, Atlanta, Kansas City, and San Francisco Regions.
+To determine whether the representative payee
+has effective safeguards over the receipt and disbursement of Social Security benefits and
+uses and accounts for Social Security benefits in accordance with SSA’s policies and procedures.
+Background
+SSA provides benefits to the most vulnerable members of society—the young, the elderly, and the disabled.  Congress granted SSA the authority to appoint representative payees for those beneficiaries judged incapable of managing or directing the management of their benefits.  
+Representative payees (organizations or individuals) receive and manage payments on behalf of these beneficiaries.  Given the vulnerability of the beneficiaries and the risk a representative payee may misuse beneficiaries’ funds, it is imperative that SSA have appropriate safeguards to ensure representative payees meet their responsibilities.
+The Accuracy of Addresses on the Social Security Administration’s Social Security Statements
+Objective
+To determine the accuracy of addresses SSA uses to mail Social Security statements and its impact on SSA’s ability to reach individuals to inform them about their earnings and future benefits.
+Background
+Effective FY 2000, SSA is required to provide annual statements with benefits and earnings information to individuals over age 25 who have an SSN, have wages or earnings from self-employment, and for whom a mailing address can be obtained.  Each statement is required to contain an (1) estimate of potential monthly Social Security benefits, (2) wages and self-employment income earned, and (3) Social Security and Medicare taxes paid.  The statements are generally mailed about 3 months before the individual’s birthday.  In FY 2005, SSA mailed statements to more than 140 million people.  SSA obtains mailing addresses from the IRS.  SSA reaches about 85 percent of all earners through this process—the IRS lacks addresses for the remaining 15 percent of earners. 
+The Social Security Administration’s 800-Number Automation
+Objective
+To assess the level of service provided by and efficiency gained by SSA’s  800-number automated features.
+Background
+SSA’s national 800-number network was implemented in 1998 to provide the general public better access to SSA.  The national 800-number network was also implemented to provide the public with the ability to request changes to their individual records (that is, addresses, earnings, etc).  Although the general public has a variety of other service options when obtaining information or conducting business with SSA (that is, internet, field offices, etc.), most of the customers conduct their business with SSA via the telephone.  When calling the 800-number, customers can use automated features to conduct their business or to talk to a teleservice center agent, or operator.  In FY 2005, SSA estimated that 57 million customers would access the national 800-number network to conduct business with the Agency.
+
